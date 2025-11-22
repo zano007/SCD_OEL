@@ -1,2 +1,2 @@
 # SCD_OEL
-A simple JavaFX chat app that shows how to use design patterns like Factory, Builder, Decorator, Observer, and Singleton. It has a basic messaging interface and is good for learning JavaFX and object-oriented programming.
+This is a Simple Chat Simulator built using JavaFX. It demonstrates basic messaging functionality with a clean GUI and uses several design patterns like Factory, Builder, Decorator, Observer, and Singleton. This project is mainly for learning JavaFX, OOP concepts, and how design patterns can be applied in real applications.
